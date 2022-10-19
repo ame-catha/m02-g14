@@ -6,3 +6,4 @@ Isidora Urzúa Medel<br>
 Luz Huaman Onsihuay<br>
 Fabiana Rodriguez Vivas<br>
 Antonia Meza Gaete<br>
+Loreto Lagos Hernandez<br>
