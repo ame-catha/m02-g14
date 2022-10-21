@@ -2,9 +2,9 @@
 repositorio grupo 14
 
 Amelia Cathalifaud Nahuel<br>
-Isidora Urzúa Medel<br>
 Luz Huaman Onsihuay<br>
-Fabiana Rodriguez Vivas<br>
-Antonia Meza Gaete<br>
 Loreto Lagos Hernandez<br>
-Katalina Rojas Zúñiga 
+Antonia Meza Gaete<br>
+Katalina Rojas Zúñiga<br>
+Fabiana Rodriguez Vivas<br>
+Isidora Urzúa Medel
