@@ -11,11 +11,12 @@ body{
 	
 .contenedor {
 background-color: pink;
-	width: 100%;
+	width:800px;
+	height: 90px;
 	padding: 0px;
 	margin: 20px 0px;
 	border: 0px solid blue;
-	font-size: 28px;
+	font-size: 15px;
 	color: hotpink;
 	text-align: center;
 	font-family: 'Merriweather', serif;
@@ -23,7 +24,7 @@ background-color: pink;
 
 }
 .tejidosvg {
-	margin-top: -200px;
+	margin-top: -200px
 	width: 100%;}
 
 .titulo{
@@ -43,6 +44,7 @@ background-color: pink;
 	margin: 0 auto; 
 	float: center;
 	margin-top: 400px;
+	display: inline-block;
 
 }
 .proyecto{
@@ -60,6 +62,8 @@ background-color: pink;
 	background: gray;
 	margin: 0 auto; 
 	float: center;
+ 
+ display: inline-block;
 }
 
 
@@ -68,3 +72,13 @@ background-color: pink;
 }
 
 
+.autor{
+	width: 300px;
+	height: 300px;
+	margin-left:950px;
+	margin-top: -50px;
+}
+
+.p1{
+	margin-top:-260px;
+}
