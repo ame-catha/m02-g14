@@ -10,7 +10,7 @@ body{
 	background-color:#FFF8D5;}
 	
 .contenedor {
-background-color: pink;
+	background-color: pink;
 	width:800px;
 	height: 40px;
 	padding: 0px;
@@ -36,36 +36,74 @@ background-color: pink;
 	color:black;
 }	
 
+#cajaiconos {
+	display: inline-block;
+}
+
 .paper{
 	width: 200px; 
-	padding: 20px 0px;
-	margin: 0px;
-	background: gray;
-	margin: 0 auto; 
-	float: center;
-	margin-top: 400px;
+	height: 200px;
+	padding: 10px 0px; 
+	margin-top: 450px;
+	background-color: #a6a4c1;
 	display: inline-block;
+	border-radius: 50px;
+	float: left;
+	margin-left: 250px;
+}
+
+#papericono{
+	position: relative;
+	float: center;
+	margin-top: 20px;
+	margin-left: 25px;
+
+filter: invert(9%) sepia(76%) saturate(1844%) hue-rotate(224deg) brightness(87%) contrast(113%)
 
 }
-.proyecto{
-	width: 200px; 
+
+
+.proyectos{
+	width: 200px;
+	height: 200px; 
 	padding: 20px 0px;
-	margin: 0px;
 	background: gray;
-	margin: 0 auto; 
+	display: inline-block;
+	background-color: #a6a4c1;
+	border-radius: 50px;
+	margin-left: 150px;
 	float: center;
+	margin-top: 450px;
 }
+
+#ovilloicono {
+	position: relative;
+	float: center;
+	margin-top: 20px;
+	margin-left: 25px;
+
+filter: invert(9%) sepia(76%) saturate(1844%) hue-rotate(224deg) brightness(87%) contrast(113%)
+}
+
 .analisis{
 	width: 200px; 
 	padding: 20px 0px;
-	margin: 0px;
-	background: gray;
-	margin: 0 auto; 
-	float: center;
- 
- display: inline-block;
+	background: #a6a4c1; 
+ 	display: inline-block;
+ 	height: 150px;
+ 	border-radius: 50px;
+ 	margin-left: 150px;
+ 	margin-top: 450px;
 }
 
+#analisisicono {
+	position: relative;
+	float: center;
+	margin-top: 20px;
+	margin-left: 25px;
+
+filter: invert(9%) sepia(76%) saturate(1844%) hue-rotate(224deg) brightness(87%) contrast(113%)
+}
 
 #contenedor{
 	
