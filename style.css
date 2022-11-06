@@ -1,10 +1,9 @@
 
 body{
 	background-color: #FFF8D5; 
-	width: 600px; 
+	width: 100%; 
 	font-family: 'Open Sans', sans-serif;
-	position: relative;
-			}
+	position: relative;}
 
 #encabezado {
 	width: 100%;
