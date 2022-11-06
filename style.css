@@ -3,6 +3,7 @@ body{
 	background-color: #FFF8D5; 
 	width: 100%; 
 	font-family: 'Open Sans', sans-serif;
+	position: relative;
 			}
 
 #encabezado {
