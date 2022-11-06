@@ -30,7 +30,7 @@ body{
 .titulo{
 	float: center;
 	font-family:'Stick No Bills', sans-serif;
-	margin-left: 350px;
+	margin-left: 382px;
 	margin-top: -80px;
 	font-size: 70px;
 	color:black;
@@ -109,6 +109,10 @@ filter: invert(9%) sepia(76%) saturate(1844%) hue-rotate(224deg) brightness(87%)
 	
 }
 
+.artemañana {
+	margin-top: 150px;
+
+}
 
 .autor{
 	width: 300px;
@@ -122,7 +126,7 @@ filter: invert(9%) sepia(76%) saturate(1844%) hue-rotate(224deg) brightness(87%)
 }
 
 .nombreautor {
-	margin-left: 985px;
+	margin-left: 995px;
 	margin-bottom: 50px;
 	width: 200px;
 	margin-top:100px ;
@@ -130,7 +134,50 @@ filter: invert(9%) sepia(76%) saturate(1844%) hue-rotate(224deg) brightness(87%)
 }
 
 .p2 {
-	margin-left: 950px;
-	width: 300px;
+	margin-left: 920px;
+	width: 350px;
+}
 
+.nombrediseñadora {
+	margin-top: 100px;
+
+}
+
+
+.p3{
+	margin-left: 270px ;
+	width: 700px ;
+}
+
+.tituloproyecto {
+	margin-top: 100px;
+	margin-left: 700px;
+	width: 500px;
+}
+
+.p4 {
+	margin-left: 700px;
+	width: 780px;
+	margin-bottom: 100px;
+	margin-top: 100px;
+}
+
+.imgproyecto {
+	width: 700px;
+	margin-left: 0px;
+}
+
+
+
+
+
+.p5 {
+	margin-bottom: 500px;
+}
+
+
+
+
+.info-footer {
+	margin-top: 2500px;
 }
