@@ -1,7 +1,7 @@
 
 body{
 	background-color: #FFF8D5; 
-	width: 90%; 
+	width: 100%; 
 	font-family: 'Open Sans', sans-serif;
 	position: relative;
 
@@ -260,7 +260,7 @@ body{
 
 .franjas {
 	display: inline-block;
-	width: 90%;
+	float: center;
 }
 
 #franja1{
@@ -433,10 +433,25 @@ body{
     width: 20px;
     height: 1000px;
     background-color: #11169f;
-    margin-left: 1130px;
+    margin-left: 1135px;
     margin-top: -1000px;
 }
 
+#franja23{
+    width: 20px;
+    height: 1000px;
+    background-color: #0c0f6e;
+    margin-left: 1200px;
+    margin-top: -1000px;
+}
+
+#franja24{
+    width: 20px;
+    height: 1000px;
+    background-color: #11169f;
+    margin-left: 1265px;
+    margin-top: -1000px;
+}
 
 
 #lineah1 {
@@ -571,5 +586,5 @@ body{
 
 
 .info-footer {
-	margin-top: 2500px;
+	margin-top: 90%;
 }
