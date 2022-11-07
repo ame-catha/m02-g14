@@ -213,7 +213,7 @@ body{
 	margin-left: 30px;
 }
 
-.contenedorproyecto{
+#contenedorproyecto{
 	height: 400px;
 	width: 95%;
 	background-color: #a6a4c1 ;
@@ -231,7 +231,7 @@ body{
 #proyecto{
 	width: 400px;
 }
-.tituloproyecto {
+#tituloproyecto {
 	margin-top: -350px;
 	margin-left: 800px;
 	width: 500px;
@@ -478,35 +478,51 @@ body{
 	margin-top: 50px;
 }
 
+.titulopunto{
+	font-family: 'Stick No Bills', sans-serif;
+    margin: 20px;
 
-
-
+}
 
 
 #punto1{
-    width: 200px;
-    height:200px ;
+    width: auto;
+    height:auto ;
     background-color:#a6a4c1;
-    margin-left: 150px;
+    margin-left: 140px;
     display: inline-block;
     margin-top: 50px;
-
 }
+
+.parrafopunto1{
+	width: 240px;
+	padding-top: -5%;
+}
+
+
 #punto2{
-    width: 200px;
+    width: 220px;
     height:200px ;
     background-color:#a6a4c1;
     margin-left: 200px;
     display: inline-block;
 
+}
+
+.parrafopunto2{
+	width: 230px;
+	
 }
 #punto3{
     width: 200px;
     height:200px ;
     background-color:#a6a4c1;
     margin-left: 200px;
-    display: inline-block;
+    display: inline-block;}
 
+ .parrafopunto3{
+	width: 200px;
+	
 }
 #punto4{
     width: 200px;
@@ -516,7 +532,10 @@ body{
     display: inline-block;
     margin-top: 50px;
 }
-
+.parrafopunto4{
+	width: 200px;
+	
+}
 #punto5{
     width: 200px;
     height:200px ;
@@ -525,14 +544,21 @@ body{
     display: inline-block;
     margin-top: 50px;
 }
+.parrafopunto5{
+	width: 200px;
+	
+}
 
 #contrapunto1{
-    width: 200px;
+    width: 250px;
     height:200px ;
     background-color: #a6a4c1;
     margin-left: 150px;
     margin-top: 50px;
     display: inline-block;
+}
+.parrafocontra1{
+	width: 200px;
 }
 
 #contrapunto2{
@@ -543,14 +569,16 @@ body{
     margin-top: 50px;
     float: right;
    position: absolute;
-   display: inline-block;
-    
+   display: inline-block;}
+ .parrafocontra2{
+	width: 250px;
 }
 
 
 
+
 #cuadrolimitesyalcances{
-    height: 500px;
+    height: 900px;
     background-color: #11169f;
     margin-left: 65px;
     margin-right: 63px;
@@ -564,27 +592,29 @@ body{
     color: #FFF8D5;
     font-family:  'Stick No Bills', sans-serif;
 }
+
+.parrafolimites{
+	width: 900px;
+	color: #FFF8D5 ;
+}
+
 .alcance{
     color: #FFF8D5;
     font-family:  'Stick No Bills', sans-serif;
 }
-
-
-
-
-
-
-
-
-
-.p5 {
-	margin-bottom: 500px;
+.parrafoalcance{
+	color: #FFF8D5;
+	width: 900px;
 }
 
 
 
+.parrafoconclusion{
+	margin-top: 70px;
+}
+
 
 
 .info-footer {
-	margin-top: 90%;
+	margin-top: 100px;
 }
