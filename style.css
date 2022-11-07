@@ -3,6 +3,7 @@ body{
 	background-color: #FFF8D5; 
 	width: 100%; 
 	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
 	position: relative;
 
   }
@@ -214,7 +215,7 @@ body{
 }
 
 #contenedorproyecto{
-	height: 400px;
+	height: 420px;
 	width: 95%;
 	background-color: #a6a4c1 ;
 	margin-left: 30px;
@@ -265,7 +266,7 @@ body{
 
 #franja1{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 65px;
     margin-top: -5px;
@@ -273,184 +274,186 @@ body{
 
 #franja2{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 120px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja3{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 175px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja4{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 225px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
+
 #franja5{
-    width: 20px;
-    height: 1000px;
+	width: 20px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 275px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
+
 #franja6{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 325px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja7{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 375px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja8{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 425px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja9{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 475px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja10{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 525px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja11{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 575px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja12{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 625px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja13{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 675px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja14{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 725px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja15{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 775px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja16{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 825px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja17{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 875px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja18{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 925px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja19{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 975px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja20{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 1025px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja21{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 1075px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja22{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 1135px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja23{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #0c0f6e;
     margin-left: 1200px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 #franja24{
     width: 20px;
-    height: 1000px;
+    height: 1200px;
     background-color: #11169f;
     margin-left: 1265px;
-    margin-top: -1000px;
+    margin-top: -1200px;
 }
 
 
@@ -459,7 +462,7 @@ body{
 	height: 20px;
 	margin-left: 65px;
 	background-color: #a6a4c1;
-	margin-top: -950px;
+	margin-top: -1150px;
 }
 
 #lineah2 {
@@ -480,8 +483,7 @@ body{
 
 .titulopunto{
 	font-family: 'Stick No Bills', sans-serif;
-    margin: 20px;
-
+    margin-left: 10px;
 }
 
 
@@ -489,130 +491,236 @@ body{
     width: auto;
     height:auto ;
     background-color:#a6a4c1;
-    margin-left: 140px;
+    margin-left: 125px;
     display: inline-block;
-    margin-top: 50px;
+    margin-top: 0px;
+    padding-left:10px;
+    padding-right: 10px;
+    border-radius: 10px;
 }
 
 .parrafopunto1{
-	width: 240px;
-	padding-top: -5%;
+	width: 320px;
 }
 
 
 #punto2{
-    width: 220px;
-    height:200px ;
+    width: auto;
+    height:auto;
     background-color:#a6a4c1;
-    margin-left: 200px;
+    margin-left: 70px;
     display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: absolute;
+    float: right;
+    border-radius: 10px;
 
 }
 
 .parrafopunto2{
-	width: 230px;
+	width: 300px;
 	
 }
 #punto3{
-    width: 200px;
-    height:200px ;
+    width: auto;
+    height:auto;
     background-color:#a6a4c1;
-    margin-left: 200px;
-    display: inline-block;}
+    margin-left: 450px;
+    display: inline-block;
+    position: absolute; 
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
 
  .parrafopunto3{
-	width: 200px;
+	width: 300px;
 	
 }
 #punto4{
-    width: 200px;
-    height:200px ;
+    width: auto;
+    height: auto ;
     background-color: #a6a4c1;
-    margin-left: 350px;
+    margin-left: 250px;
     display: inline-block;
     margin-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
 }
 .parrafopunto4{
-	width: 200px;
+	width: 380px;
 	
 }
 #punto5{
-    width: 200px;
-    height:200px ;
+    width: auto;
+    height: auto ;
     background-color: #a6a4c1;
-    margin-left: 200px;
+    margin-left: 130px;
     display: inline-block;
     margin-top: 50px;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
 }
 .parrafopunto5{
-	width: 200px;
+	width: 300px;
 	
 }
 
+#subcontrapunto {
+	font-family: 'Stick No Bills', sans-serif;
+	margin-left: 10px;
+
+}
+
 #contrapunto1{
-    width: 250px;
-    height:200px ;
+    width: auto;
+    height:auto;
     background-color: #a6a4c1;
-    margin-left: 150px;
+    margin-left: 100px;
     margin-top: 50px;
     display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
 }
 .parrafocontra1{
-	width: 200px;
+	width: 500px;
 }
 
 #contrapunto2{
-    width: 200px;
-    height:200px ;
+    width: auto;
+    height:auto;
     background-color: #a6a4c1;
-    margin-left: 615px;
+    margin-left: 100px;
     margin-top: 50px;
     float: right;
    position: absolute;
-   display: inline-block;}
- .parrafocontra2{
-	width: 250px;
+   display: inline-block;
+   padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
 }
+
+.parrafocontra2{
+	width: 500px;
+}
+
 
 
 
 
 #cuadrolimitesyalcances{
-    height: 900px;
+    height: auto;
     background-color: #11169f;
     margin-left: 65px;
     margin-right: 63px;
-    margin-top: -65px;
-    width: 95%;
+    margin-top: 50px;
+    width: 90,5%;
+    padding-left: 10px;
 }
 
 .limite{
-    margin-left: 100px;
+    margin-left: 530px;
     margin-top: 100px;
     color: #FFF8D5;
     font-family:  'Stick No Bills', sans-serif;
+    
+    padding-top: 10px;
 }
 
-.parrafolimites{
-	width: 900px;
-	color: #FFF8D5 ;
+.parrafolimites {
+	padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+
+}
+
+.limite1 {
+	height: auto;
+	width: 285px;
+	border-radius: 10px;
+    background-color:#a6a4c1;
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.limite2 {
+	height: auto;
+	width: 420px;
+	border-radius: 10px;
+    background-color:#a6a4c1;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.limite3 {
+	height: auto;
+	width: 420px;
+	border-radius: 10px;
+    background-color:#a6a4c1;
+    display: inline-block;
+    margin-left: 10px;
 }
 
 .alcance{
     color: #FFF8D5;
     font-family:  'Stick No Bills', sans-serif;
-}
-.parrafoalcance{
-	color: #FFF8D5;
-	width: 900px;
+    margin-left: 525px;
 }
 
-
-
-.parrafoconclusion{
-	margin-top: 70px;
+.alcance1 {
+	height: auto;
+	width: 450px;
+	border-radius: 10px;
+    background-color:#a6a4c1;
+    display: inline-block;
+    margin-left: 65px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
 }
 
+.alcance2{
+	height: auto;
+	width: 500px;
+	border-radius: 10px;
+    background-color:#a6a4c1;
+    display: inline-block;
+    margin-left: 80px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    
+}
+
+#subconclusion{
+	margin-left: 530px;
+    margin-top: 10px;
+    color: black;
+    font-family:  'Stick No Bills', sans-serif;
+    
+    padding-top: 10px;
+}
+
+.conclusion {
+	height: auto;
+    background-color: #a6a4c1;
+    margin-left: 65px;
+    margin-right: 63px;
+    margin-top: 50px;
+    width: 90,5%;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
 
 
 .info-footer {
